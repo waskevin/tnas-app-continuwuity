@@ -1,0 +1,21 @@
+{
+  "number": 11,
+  "name": "Continuwuity",
+  "source": "https://continuwuity.org/",
+  "docker_hub": "jadedblueeyes/continuwuity",
+  "tag": "v26.11.0-alpha.2",
+  "repository": "https://github.com/waskevin/tnas-app-continuwuity",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "screenshot_path": "precheck-screenshots/continuwuity/x86_64/run.png",
+  "screenshot_status": "pending",
+  "developer_name": "管浩良",
+  "developer_email": "k.kuan@qq.com",
+  "submission_status": "not_submitted",
+  "scheduled_publish": "20:00",
+  "runtime_status": "startup_failed",
+  "runtime_note": "app-1  | Error: There was a problem with your configuration file: missing field `server_name`"
+}
